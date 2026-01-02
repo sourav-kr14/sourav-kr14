@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sourav Kumar  
-### Full-Stack Developer | MCA Student | Aspiring Software Engineer
+### AI & Software Developer | MCA @ BIT | Python • Java • Machine Learning • DSA
 
 I am a highly motivated developer with strong expertise in **Full-Stack Development (MERN Stack)**, **Python**, and **Machine Learning**.  
 I specialize in building **responsive user interfaces**, designing **scalable backend systems**, and developing **ML-powered applications**.
