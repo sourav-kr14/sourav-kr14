@@ -56,12 +56,12 @@ I am a **Software and Full-Stack Developer** focused on building high-performanc
 
 ### 📂 Featured Projects
 
-#### 📄 [AI Resume Builder](https://github.com/sourav-kr14) | **MERN & AI**
+#### 📄 [AI Resume Builder](https://github.com/sourav-kr14/ai-resume-builder) | **MERN & AI**
 >  Developed secure authentication flows and core business logic across backend and frontend layers.
 - **Impact:** Automated server-side PDF generation, reducing resume creation time by **60%**.
 - **Tech:** React, Node.js, MongoDB, AI-based content generation.
 
-#### 🏥 [AI Disease Predictor](https://github.com/sourav-kr14) | **Python & ML**
+#### 🏥 [AI Disease Predictor](https://ai-powered-disease-prediction-syste.vercel.app/) | **Python & ML**
 > Built and optimized **Random Forest, SVM, and Gaussian Naive Bayes** models for disease prediction.
 - **Engineering:** Connected ML scripts with **Node.js/Express** via a lightweight API bridge for real-time results.
 - **Reliability:** Ensured consistent accuracy and reliability even under concurrent requests.
