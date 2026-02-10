@@ -1,86 +1,90 @@
-# 👋 Hi, I'm Sourav Kumar  
-### AI & Software Developer | MCA @ BIT | Python • Java • Machine Learning • DSA
+# <img src="https://media.giphy.com/media/hvRJCLzz8CZT2/giphy.gif" width="30px"> I'm Sourav Kumar
+### 🚀 AI & Software Developer | MCA @ BIT Mesra | Full-Stack Architect
 
-I am a highly motivated developer with strong expertise in **Full-Stack Development (MERN Stack)**, **Python**, and **Machine Learning**.  
-I specialize in building **responsive user interfaces**, designing **scalable backend systems**, and developing **ML-powered applications**.
-
-Currently, I am pursuing my **Master of Computer Applications (MCA)** from **BIT Mesra, Ranchi**.
-
----
-
-## 🚀 Quick Overview
-
-- 🔭 **Experience:** SDE Intern at **Armus Digital**  
-  → Optimized frontend performance (↓ 25% load time) and improved REST APIs
-
-- 🧠 **Focus Areas:**  
-  React.js • Redux • Node.js • Express • Flask • Machine Learning
-
-- 🏆 **Achievements:**  
-  Solved **150+ DSA problems** on LeetCode & GeeksforGeeks
-
-- 🏛️ **Leadership:**  
-  Club Administrator – **ALFA Coding Club**  
-  Former **Head Boy**
+<p align="left">
+<a href="https://linkedin.com/in/thesouravv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesouravv" height="30" width="40" /></a>
+<a href="https://portfolio-sigma-lime-37.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="portfolio" height="30" width="30" /></a>
+<a href="mailto:souravkr93@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="30" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 📬 About Me
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+I am a **Software and Full-Stack Developer** focused on building high-performance applications and intelligent ML systems[: 3]. Currently pursuing my **Master of Computer Applications** at **Birla Institute of Technology, Mesra**.
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- 🔭 **Current Focus:** Optimizing concurrent request handling in MERN architectures.
+- ⚡ **Technical Edge:** Strong foundation in **Java DSA** with 150+ problems solved.
+- 💡 **Innovation:** Specialized in bridging Python-based ML models with Node.js backends.
+- 🌱 **Leadership:** Club Administrator for **ALFA Coding Club** and former **Head Boy**.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white)
 
-### Data Science & ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-orange?style=for-the-badge)
+---
+### 💼 Experience Highlights
+
+- **SDE Intern @ Armus Digital:** Refactored components to reduce page load latency by **25%** and improved system stability by **15%**.
+- **Software Engineering Intern @ Bluestock Fintech:** Improved user navigation by **25%** through responsive React modules.
+---
+
+### 🛠️ Professional Tech Stack
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Development</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Data Science & DB</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-### 🔹 AI PDF Intelligence System
-- Built a **RAG-based pipeline** using LangChain
-- Extracts and analyzes data from unstructured PDFs
-- Supports semantic search & citation-based answers
+#### 📄 [AI Resume Builder](https://github.com/sourav-kr14) | **MERN & AI**
+>  Developed secure authentication flows and core business logic across backend and frontend layers.
+- **Impact:** Automated server-side PDF generation, reducing resume creation time by **60%**.
+- **Tech:** React, Node.js, MongoDB, AI-based content generation.
 
-### 🔹 AI Disease Prediction System
-- ML models deployed using **Flask APIs**
-- Real-time prediction with trained datasets
-- Clean REST-based architecture
+#### 🏥 [AI Disease Predictor](https://github.com/sourav-kr14) | **Python & ML**
+> Built and optimized **Random Forest, SVM, and Gaussian Naive Bayes** models for disease prediction.
+- **Engineering:** Connected ML scripts with **Node.js/Express** via a lightweight API bridge for real-time results.
+- **Reliability:** Ensured consistent accuracy and reliability even under concurrent requests.
 
-### 🔹 AI Resume Builder
-- Dynamic resume generation system
-- Modular backend with PDF export
-- Reduced resume creation time by **60%**
 
----
 
-## 🤝 Connect With Me
-- 🌐 **Portfolio:** [souravkumar.dev](https://portfolio-sigma-lime-37.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/thesouravv](https://linkedin.com/in/thesouravv)
-- 📧 **Email:** [souravkr93@gmail.com](mailto:souravkr93@gmail.com)
-- 🚀 **GitHub:** [github.com/sourav-kr14](https://github.com/sourav-kr14)
+### 📊 Github Stats & Activity
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sourav-kr14&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-kr14&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-kr14&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourav-kr14&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sourav-kr14&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 </p>
 
-
+<p align="center"> 
+  <strong>Let's Connect!</strong> ☕
+</p>
