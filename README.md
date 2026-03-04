@@ -10,24 +10,20 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/thesouravv" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:0 12px;" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-sigma-lime-37.vercel.app/" target="_blank">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" height="35"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" height="40" style="margin:0 12px;" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:souravkr93@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin:0 12px;" />
 </a>
 
 </p>
@@ -53,12 +49,31 @@
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">Languages</h3>
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,postgres,python,flask,tailwind,git,docker" />
+<h3 align="center">Frontend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
+</p>
 
+<h3 align="center">Backend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
 </p>
 
 ---
@@ -75,29 +90,38 @@
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 📄 AI Resume Builder
-**Tech:** MERN Stack + AI  
+### 🚀 AI Resume Builder
+AI-powered resume builder with **real-time preview, secure authentication, and automated PDF generation**.
 
-- Built secure authentication flows  
-- Implemented server-side **PDF generation**  
-- Reduced resume creation time by **60%**
+**Tech Stack:** React, Node.js, Express, MongoDB, AI Content Generation  
 
-🔗 https://github.com/sourav-kr14/ai-resume-builder
+**Key Features**
+- 🔐 Implemented secure authentication and protected routes
+- 📄 Automated **server-side PDF generation**
+- ⚡ Reduced resume creation time by **60%**
+- 🎨 Live resume preview with dynamic updates
 
----
+**Repository:**  
+https://github.com/sourav-kr14/ai-resume-builder
 
-## 🏥 AI Disease Predictor
-**Tech:** Python, Machine Learning, Node.js  
-
-- Implemented **Random Forest, SVM, Gaussian Naive Bayes**
-- Connected ML models with **Node.js API bridge**
-- Enabled **real-time disease prediction**
-
-🔗 https://ai-powered-disease-prediction-syste.vercel.app/
 
 ---
+
+### 🏥 AI Disease Predictor
+Machine learning system that predicts diseases based on **symptom inputs using multiple ML models**.
+
+**Tech Stack:** Python, Flask, Node.js, Machine Learning  
+
+**Key Features**
+- 🤖 Implemented **Random Forest, SVM, Gaussian Naive Bayes**
+- 🔗 Built **Node.js API bridge** for real-time ML predictions
+- 📊 Improved prediction reliability using trained datasets
+- ⚡ Designed for fast response under concurrent requests
+
+**Live Demo:**  
+https://ai-powered-disease-prediction-syste.vercel.app/
 
 # 📊 GitHub Stats
 
