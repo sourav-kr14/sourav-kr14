@@ -6,7 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Java+DSA+Enthusiast;Building+Scalable+Applications"/>
 </p>
 
-<h3 align="center">🚀 AI & Software Developer | MCA @ BIT Mesra | Full-Stack Architect</h3>
+<h3 align="center🚀"> AI & Full-Stack Developer | MERN Stack | MCA @ BIT Mesra |
+Machine Learning & Deep Learning Enthusiast</h3>
 
 ---
 
