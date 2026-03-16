@@ -34,13 +34,13 @@ MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
 
 # 👨‍💻 About Me
 
+- 💼 Software Engineer Trainee at **Revature**
 - 🎓 MCA Student at **Birla Institute of Technology, Mesra**
 - 💻 Full Stack Developer specializing in **MERN Stack**
 - 🤖 AI/ML enthusiast building intelligent applications
 - 🧠 Strong **Java DSA foundation (150+ problems solved)**
 - ⚡ Passionate about **scalable backend architecture**
 - 🏆 Club Administrator at **ALFA Coding Club**
-
 ---
 
 # 🔭 Currently Working On
@@ -79,16 +79,23 @@ MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
 </p>
 
 ---
-
 # 💼 Experience
 
-### 💻 SDE Intern — Armus Digital
-- Refactored components reducing **page load latency by 25%**
-- Improved system stability by **15%**
+### 💻 Software Engineer Trainee — Revature (Mar 2026 – Present)
+- Undergoing intensive training in **enterprise software development**
+- Strengthening problem-solving through **Data Structures & Algorithms**
+- Building scalable backend systems using **Java, Spring, and Microservices**
+- Working in **Agile development environments**
 
-### 💻 Software Development Engineer Intern — Bluestock Fintech
-- Built responsive **React modules**
+### 💻 Software Development Engineer Intern — Bluestock Fintech (Dec 2025 – Jan 2026)
+- Engineered real-time preview features ensuring **100% data consistency**
+- Built responsive **React-based financial dashboard modules**
 - Improved **user navigation efficiency by 25%**
+
+### 💻 Software Development Engineer Intern — Armus Digital (Jun 2025 – Jul 2025)
+- Refactored frontend components reducing **page load latency by 25%**
+- Optimized system performance improving **stability by 15%**
+- Worked across **full-stack layers (React, Node.js, REST APIs)**
 
 ---
 
