@@ -6,10 +6,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Java+DSA+Enthusiast;Building+Scalable+Applications"/>
 </p>
 
-<h3 align="center🚀"> AI & Full-Stack Developer | MERN Stack | MCA @ BIT Mesra |
-Machine Learning & Deep Learning Enthusiast</h3>
+<h3 align="center"> Software Engineer Trainee @ Revature</h3>
+<p align="center">
+MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
+</p>
 
----
 
 ## 🌐 Connect With Me
 
