@@ -20,7 +20,7 @@ MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:0 12px;" />
 </a>
 
-<a href="https://portfolio-sigma-lime-37.vercel.app/" target="_blank">
+<a href="https://souravdev.me" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" height="40" style="margin:0 12px;" />
 </a>
 
