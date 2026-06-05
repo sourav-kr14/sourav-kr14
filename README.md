@@ -8,7 +8,7 @@
 
 <h3 align="center"> Software Engineer Trainee @ Revature</h3>
 <p align="center">
-MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
+JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable Systems
 </p>
 
 
@@ -36,7 +36,7 @@ MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
 
 - 💼 Software Engineer Trainee at **Revature**
 - 🎓 MCA Student at **Birla Institute of Technology, Mesra**
-- 💻 Full Stack Developer specializing in **MERN Stack**
+- 💻 Full Stack Developer specializing in ** JAVA & Microservices Architecture**
 - 🤖 AI/ML enthusiast building intelligent applications
 - 🧠 Strong **Java DSA foundation (150+ problems solved)**
 - ⚡ Passionate about **scalable backend architecture**
@@ -46,7 +46,7 @@ MERN Stack Developer • MCA @ BIT Mesra • AI & Deep Learning Enthusiast
 # 🔭 Currently Working On
 
 • Building scalable **MERN applications**  
-• Integrating **ML models with Node.js APIs**  
+• Integrating **ML models in Microservice Architecture**  
 • Improving **backend performance and system design**
 
 ---
