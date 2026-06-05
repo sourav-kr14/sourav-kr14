@@ -45,7 +45,7 @@ JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable S
 
 # 🔭 Currently Working On
 
-• Building scalable **MERN applications**  
+• Building scalable applications in **JAVA** 
 • Integrating **ML models in Microservice Architecture**  
 • Improving **backend performance and system design**
 
