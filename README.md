@@ -36,7 +36,7 @@ JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable S
 
 - 💼 Software Engineer Trainee at **Revature**
 - 🎓 MCA Student at **Birla Institute of Technology, Mesra**
-- 💻 Full Stack Developer specializing in ** JAVA & Microservices Architecture**
+- 💻 Full Stack Developer specializing in **JAVA & Microservices Architecture**
 - 🤖 AI/ML enthusiast building intelligent applications
 - 🧠 Strong **Java DSA foundation (150+ problems solved)**
 - ⚡ Passionate about **scalable backend architecture**
