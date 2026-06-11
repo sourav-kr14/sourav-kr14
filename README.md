@@ -101,19 +101,23 @@ JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable S
 
 ## 📂 Featured Projects
 
-### 🚀 AI Resume Builder
-AI-powered resume builder with **real-time preview, secure authentication, and automated PDF generation**.
+### 🚀 RevHive – Microservices-Based Social Media Platform
+A full-stack social media platform enabling users to share posts, connect with others, engage through likes/comments, and communicate in real time.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, AI Content Generation  
+**Tech Stack:** React, Spring Boot, Spring Cloud, MySQL, JWT, WebSocket, Docker, Kubernetes (AKS), Azure
 
 **Key Features**
-- 🔐 Implemented secure authentication and protected routes
-- 📄 Automated **server-side PDF generation**
-- ⚡ Reduced resume creation time by **60%**
-- 🎨 Live resume preview with dynamic updates
+- 🏗️ Designed and developed a **microservices-based social media platform** using Spring Boot, with dedicated services for authentication, users, posts, comments, messaging, and notifications.
+- 🚪 Implemented API Gateway, service discovery, and inter-service communication to enable scalable and maintainable architecture.
+- 🔐 Built secure authentication and authorization using **JWT**, role-based access control, and protected APIs.
+- 👥 Developed social networking features including posts, comments, likes, follows, user profiles, and personalized feeds.
+- 💬 Integrated real-time chat and notifications using **WebSocket** for instant user communication.
+- 🐳 Containerized all microservices using **Docker** and managed deployments through **Azure Kubernetes Service (AKS)**.
+- ☁️ Deployed and orchestrated services on Azure Cloud, enabling high availability, scalability, and fault isolation.
+- ⚡ Optimized API performance and database interactions, improving application responsiveness and user experience.
 
 **Repository:**  
-https://github.com/sourav-kr14/ai-resume-builder
+https://github.com/Rev-Hive
 
 
 ---
