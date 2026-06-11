@@ -45,9 +45,9 @@ JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable S
 
 # 🔭 Currently Working On
 
-• Building scalable applications in **JAVA** 
-• Integrating **ML models in Microservice Architecture**  
-• Improving **backend performance and system design**
+- Building scalable applications in **JAVA** 
+- Integrating **ML models in Microservice Architecture**  
+- Improving **backend performance and system design**
 
 ---
 
@@ -128,10 +128,10 @@ Machine learning system that predicts diseases based on **symptom inputs using m
 **Tech Stack:** Python, Flask, Node.js, Machine Learning  
 
 **Key Features**
-- 🤖 Implemented **Random Forest, SVM, Gaussian Naive Bayes**
-- 🔗 Built **Node.js API bridge** for real-time ML predictions
-- 📊 Improved prediction reliability using trained datasets
-- ⚡ Designed for fast response under concurrent requests
+- 🤖 Implemented **Random Forest, SVM, Gaussian Naive Bayes**.
+- 🔗 Built **Node.js API bridge** for real-time ML predictions.
+- 📊 Improved prediction reliability using trained datasets.
+- ⚡ Designed for fast response under concurrent requests.
 
 **Live Demo:**  
 https://ai-powered-disease-prediction-syste.vercel.app/
