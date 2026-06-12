@@ -1,14 +1,16 @@
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Sourav%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Sourav%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Java+DSA+Enthusiast;Building+Scalable+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices;Software+Engineer+Trainee+%40+Revature;Building+Scalable+Applications"/>
 </p>
 
-<h3 align="center"> Software Engineer Trainee @ Revature</h3>
+<h3 align="center">Software Engineer Trainee @ Revature</h3>
+
 <p align="center">
-JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable Systems
+Java Full Stack Developer • MCA @ BIT Mesra • Spring Boot & Microservices Enthusiast
 </p>
 
 
@@ -45,10 +47,11 @@ JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable S
 
 # 🔭 Currently Working On
 
-- Building scalable applications in **JAVA** 
-- Integrating **ML models in Microservice Architecture**  
-- Improving **backend performance and system design**
-
+- Building scalable applications using **Java, Spring Boot & Microservices**
+- Strengthening expertise in **Data Structures & Algorithms**
+- Designing and optimizing **REST APIs and backend systems**
+- Learning **Docker, Kubernetes, and Cloud-Native Development**
+- Improving **system design and software architecture skills**
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -65,17 +68,22 @@ JAVA Full Stack Developer • MCA @ BIT Mesra • Building AI Powered Scalable S
 
 <h3 align="center">Backend</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+<h3 align="center">Cloud & DevOps</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure"/>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
